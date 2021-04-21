@@ -1,0 +1,39 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 17134.2087; Version 1803; 64bit' Language: 'en' Physical Memory: 3977 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity 2020.3.1f1 LTS\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Sadiq/My Files/Unity projects/Air console clone
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63532
+Successfully changed project path to: D:/Sadiq/My Files/Unity projects/Air console clone
+D:/Sadiq/My Files/Unity projects/Air console clone
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 542.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.01 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity 2020.3.1f1 LTS/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Sadiq/My Files/Unity projects/Air console clone/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   
+    VRAM:     1988 MB
+    Driver:   25.20.100.6576
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity 2020.3.1f1 LTS/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity 2020.3.1f1 LTS/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/Unity 2020.3.1f1 LTS/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56240
+Begin MonoManager ReloadAssembly
